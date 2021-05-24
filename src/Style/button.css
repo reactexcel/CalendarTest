@@ -1,0 +1,34 @@
+.btn-purple {
+  background-color: #6264a7;
+  border: #6264a7;
+  padding: 0.5rem;
+  border-radius: 2px;
+  box-shadow: 1px 2px #636363;
+  color: white;
+}
+.btn-purple:hover {
+  background-color: #4f518d;
+  border: #6264a7;
+}
+.btn-purple:active {
+  background-color: #494949;
+  border: #6264a7;
+}
+
+/* css for navigation button */
+.btn-navigation {
+  border: none;
+  padding: 2px;
+  background: transparent;
+  z-index: 10;
+}
+
+.btn-navigation:active {
+  border: none;
+  color: #6264a7;
+  outline: #636363;
+}
+
+.btn-navigation:hover {
+  color: #333333;
+}
